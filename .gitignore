@@ -1,0 +1,9 @@
+exclude/
+.Rhistory
+*.png
+Thumbs.db
+effect_of_cent_data/
+fig2_data/
+density_data/
+*.becker
+nets/
