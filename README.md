@@ -1,5 +1,5 @@
 # CoordinationGame
-Supplementary code for "The Network Dynamics of Social"
+Supplementary code for "The Network Dynamics of Conventions"
 
 ## Core Code
 
